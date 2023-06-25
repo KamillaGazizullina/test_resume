@@ -3,7 +3,7 @@ ARG DEBIAN_FRONTEND=noninteractive
 RUN apt-get update && apt-get install --yes --no-install-recommends \
 	texlive-fonts-recommended \
 	texlive-latex-extra \
-	texlive-fonts-easdxtra \ 
+	texlive-fonts-extra \ 
 	dvipng \
 	texlive-latex-recommended \ 
 	texlive-base \
