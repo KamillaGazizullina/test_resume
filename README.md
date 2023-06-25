@@ -1,2 +1,2 @@
 # Газизуллина Камилла Ринатовна КНАД-221
-https://kamillagazizullina.github.io/hw3/cv/main.pdf
+https://kamillagazizullina.github.io/test_resume/cv/main.pdf
